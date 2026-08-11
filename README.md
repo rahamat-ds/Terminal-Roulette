@@ -1,8 +1,9 @@
-# T E R M I N A L  R O U L E T T E
+# T E R M I N A L - R O U L E T T E
 
 A two-player CLI game inspired by Russian Roulette.
 
-🎮 Last Click
+```text
+🎮
 │
 ├── 🎯 Game Engine
 ├── 🔫 Revolver Mechanics
@@ -10,6 +11,7 @@ A two-player CLI game inspired by Russian Roulette.
 ├── 🤖 Human vs Computer
 ├── 💻 CLI Interface
 └── 🧪 Tests
+```
 
 ## Requirements
 
