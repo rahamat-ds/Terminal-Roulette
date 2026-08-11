@@ -2,13 +2,14 @@
 
 A two-player CLI game inspired by Russian Roulette.
 
-🎮 
-├── game engine
-├── revolver mechanics
-├── Human vs Human
-├── Human vs Computer
-├── CLI
-└── tests
+🎮 Last Click
+│
+├── 🎯 Game Engine
+├── 🔫 Revolver Mechanics
+├── 👥 Human vs Human
+├── 🤖 Human vs Computer
+├── 💻 CLI Interface
+└── 🧪 Tests
 
 ## Requirements
 
